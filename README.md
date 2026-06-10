@@ -166,6 +166,12 @@
 
 ## 🧠 Competitive Programming
 
+<p align="center">
+  <a href="https://codolio.com/profile/katiyaragam11">
+    <img src="https://api.codolio.com/portfolio-widget/?username=katiyaragam11" alt="Codolio Profile" />
+  </a>
+</p>
+
 ### Current Ratings
 
 | Platform   | Rating |
@@ -179,6 +185,7 @@
 <img src="https://leetcard.jacoblin.cool/Agam_Katiyar?theme=dark&font=JetBrains%20Mono&ext=contest" />
 </a>
 </p>
+
 
 ---
 
