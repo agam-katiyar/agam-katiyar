@@ -132,13 +132,6 @@
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agam-katiyar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
 
 ## 🌟 Repository Highlights
 
@@ -185,26 +178,28 @@
 </p>
 
 <p align="center">
-  <b>350+ Problems Solved</b> • <b>379 Total Questions on Codolio</b> • <b>253 Active Coding Days</b>
+  <a href="https://www.geeksforgeeks.org/profile/agamkatilny9">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/agamkatiyar1">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
 </p>
 
-### Current Ratings
-
-| Platform | Rating |
-|----------|----------|
-| LeetCode | 1486 |
-| CodeChef | 1001 |
-| Codeforces | 582 |
+<p align="center">
+  <b>379 Total Questions</b> • <b>253 Active Coding Days</b>
+</p>
 
 <p align="center">
-<a href="https://leetcode.com/u/Agam_Katiyar/">
-<img src="https://leetcard.jacoblin.cool/Agam_Katiyar?theme=dark&font=JetBrains%20Mono&ext=contest" />
-</a>
+  <a href="https://leetcode.com/u/Agam_Katiyar/">
+    <img src="https://leetcard.jacoblin.cool/Agam_Katiyar?theme=dark&font=JetBrains%20Mono&ext=contest" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://codolio.com/profile/katiyaragam11">
-    <b>🔗 View Complete Codolio Portfolio</b>
+    <b>📊 View Complete Coding Portfolio on Codolio</b>
   </a>
 </p>
 
