@@ -17,15 +17,17 @@
 
 ## 🚀 About Me
 
-💻 Software Engineering, AI/ML, and Problem Solving Enthusiast
+💻 Passionate about Software Engineering, Artificial Intelligence, and Problem Solving
 
-🎓 B.Tech CSE (AI & ML) @ VIT Bhopal (CGPA: 8.56)
+🤖 Building AI-powered applications using Machine Learning, Computer Vision, NLP, and LLM technologies
 
-🏆 GRABHACK 2025 Pre-Finalist — Top 98 Teams out of 4500+ Teams
+🚀 Interested in scalable software systems and real-world AI solutions
 
-🤖 Interested in Computer Vision, NLP, Agentic AI, and Intelligent Systems
+🏆 GRABHACK 2025 Pre-Finalist — Top 98 Teams out of 4500+ Teams Nationwide
 
-🌱 Currently Exploring:
+🏅 Oracle OCI 2025 Certified Generative AI Professional
+
+🌱 Currently Exploring
 
 * Machine Learning & Deep Learning
 * System Design
@@ -61,7 +63,7 @@
 ## 🏆 Highlights
 
 * 🥇 GRABHACK 2025 Pre-Finalist (Top 98 / 4500+ Teams)
-* 💻 Solved **379+ DSA Problems**
+* 💻 Solved **350+ DSA Problems**
 * 🤖 Multiple AI/ML & GenAI Hackathon Participant
 * ☁️ Google Cloud Arcade Achiever
 * 🌱 NSS Volunteer – Mega Tree Plantation Drive
@@ -164,8 +166,6 @@
 
 ## 🧠 Competitive Programming
 
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge)](https://codolio.com/profile/katiyaragam11)
-
 ### Current Ratings
 
 | Platform   | Rating |
@@ -174,21 +174,11 @@
 | CodeChef   | 1001   |
 | Codeforces | 582    |
 
-### Problem Solving
-
-💻 **379+ DSA Problems Solved**
-
 <p align="center">
 <a href="https://leetcode.com/u/Agam_Katiyar/">
 <img src="https://leetcard.jacoblin.cool/Agam_Katiyar?theme=dark&font=JetBrains%20Mono&ext=contest" />
 </a>
 </p>
-
----
-
-## 📊 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agam-katiyar\&theme=tokyo-night\&hide_border=true)](https://github.com/agam-katiyar)
 
 ---
 
@@ -201,6 +191,12 @@
 * Data Engineering Foundation – Informatica
 * NPTEL Introduction to Internet of Things (Elite + Silver)
 * NPTEL Cloud Computing
+
+---
+
+## 📊 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agam-katiyar\&theme=tokyo-night\&hide_border=true)](https://github.com/agam-katiyar)
 
 ---
 
