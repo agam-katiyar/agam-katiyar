@@ -168,22 +168,44 @@
 
 <p align="center">
   <a href="https://codolio.com/profile/katiyaragam11">
-    <img src="https://api.codolio.com/portfolio-widget/?username=katiyaragam11" alt="Codolio Profile" />
+    <img src="https://img.shields.io/badge/Codolio-View%20Portfolio-FF8C00?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
+
+  <a href="https://leetcode.com/u/Agam_Katiyar/">
+    <img src="https://img.shields.io/badge/LeetCode-1486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://www.codechef.com/users/glad_charm_96">
+    <img src="https://img.shields.io/badge/CodeChef-1001-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/agam_katiyar11">
+    <img src="https://img.shields.io/badge/Codeforces-582-1F8ACB?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <b>350+ Problems Solved</b> • <b>379 Total Questions on Codolio</b> • <b>253 Active Coding Days</b>
 </p>
 
 ### Current Ratings
 
-| Platform   | Rating |
-| ---------- | ------ |
-| LeetCode   | 1486   |
-| CodeChef   | 1001   |
-| Codeforces | 582    |
+| Platform | Rating |
+|----------|----------|
+| LeetCode | 1486 |
+| CodeChef | 1001 |
+| Codeforces | 582 |
 
 <p align="center">
 <a href="https://leetcode.com/u/Agam_Katiyar/">
 <img src="https://leetcard.jacoblin.cool/Agam_Katiyar?theme=dark&font=JetBrains%20Mono&ext=contest" />
 </a>
+</p>
+
+<p align="center">
+  <a href="https://codolio.com/profile/katiyaragam11">
+    <b>🔗 View Complete Codolio Portfolio</b>
+  </a>
 </p>
 
 
