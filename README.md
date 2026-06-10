@@ -13,46 +13,24 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech in Computer Science Engineering (AI & ML) at **VIT Bhopal**
+💻 Software Engineering, AI/ML, and Problem Solving Enthusiast
 
-💻 Passionate about **Software Engineering, Machine Learning, and Problem Solving**
+🎓 B.Tech CSE (AI & ML) @ VIT Bhopal (CGPA: 8.56)
 
-🤖 Interested in **AI-powered Applications, Computer Vision, NLP, Agentic AI, and Intelligent Systems**
+🏆 GRABHACK 2025 Pre-Finalist — Top 98 Teams out of 4500+ Teams
 
-🏆 **GRABHACK 2025 Pre-Finalist** — Ranked among Top 98 Teams out of 4500+ Teams Nationwide
+🤖 Interested in Computer Vision, NLP, Agentic AI, and Intelligent Systems
 
-🌱 Currently Learning:
+🌱 Currently Exploring:
 
 * Machine Learning & Deep Learning
 * System Design
 * Full Stack Development
 * AI Agents & LLM Applications
-
-⚡ Fun Fact:
-
-I enjoy transforming innovative ideas into impactful software solutions through hackathons and real-world projects.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
-
-## 🎓 Education
-
-**Vellore Institute of Technology, Bhopal**
-
-B.Tech in Computer Science Engineering (AI & ML)
-
-📅 Aug 2023 – Aug 2027
-
-📊 CGPA: **8.56 / 10**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -78,50 +56,15 @@ B.Tech in Computer Science Engineering (AI & ML)
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-* 🥇 GRABHACK 2025 Pre-Finalist — Top 98 Teams out of 4500+ Teams
-* 🤖 Participated in Multiple AI/ML & GenAI Hackathons
-* 🔍 Proposed AI-Powered Deepfake Detection and Fraud Detection Systems
-* 💻 Solved **379+ DSA Problems** across LeetCode, GeeksforGeeks, Codeforces, and CodeChef
-* ☁️ Earned Google Arcade Swags through successful completion of Google Cloud Labs
-* 🌱 NSS Volunteer at VIT Bhopal for the 10,000 Mega Tree Plantation Initiative
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
-
-## 🌟 Featured Projects
-
-### 🚦 SmartFlow AI – Mahakumbh Hackathon
-
-AI-powered crowd routing and intelligent mobility management platform for large-scale events.
-
-### 🌍 Real-Time Speech-to-Speech Translator
-
-Offline multilingual speech translation system built using Whisper, NLLB-200, and Text-to-Speech pipelines.
-
-### 🔍 Semantic Search System
-
-AI-powered semantic search engine leveraging modern NLP techniques for contextual information retrieval.
-
-### 🚗 Driver Drowsiness Detection
-
-Computer Vision-based driver monitoring system using MediaPipe and OpenCV for real-time fatigue detection.
-
-### ✋ Hand Gesture Controller
-
-Gesture-controlled laptop interaction system using Computer Vision and MediaPipe.
-
-### 🚚 LastMile SYNAPSE
-
-AI-assisted logistics and route optimization platform.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+* 🥇 GRABHACK 2025 Pre-Finalist (Top 98 / 4500+ Teams)
+* 💻 Solved **379+ DSA Problems**
+* 🤖 Multiple AI/ML & GenAI Hackathon Participant
+* ☁️ Google Cloud Arcade Achiever
+* 🌱 NSS Volunteer – Mega Tree Plantation Drive
 
 ---
 
@@ -145,7 +88,7 @@ AI-assisted logistics and route optimization platform.
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-**Libraries & Frameworks**
+### Libraries & Frameworks
 
 `OpenCV` • `Whisper` • `MediaPipe` • `LangChain` • `LangGraph` • `PyTorch`
 
@@ -154,8 +97,6 @@ AI-assisted logistics and route optimization platform.
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -176,14 +117,16 @@ AI-assisted logistics and route optimization platform.
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agam-katiyar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agam-katiyar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agam-katiyar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=agam-katiyar&theme=tokyonight&hide_border=true" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -192,8 +135,6 @@ AI-assisted logistics and route optimization platform.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=agam-katiyar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -219,17 +160,11 @@ AI-assisted logistics and route optimization platform.
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ---
 
 ## 🧠 Competitive Programming
 
-<p align="center">
-<a href="https://codolio.com/profile/katiyaragam11">
-<img src="https://codolio.com/codolio_assets/coding_data/card_img.png?username=katiyaragam11" />
-</a>
-</p>
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge)](https://codolio.com/profile/katiyaragam11)
 
 ### Current Ratings
 
@@ -249,15 +184,11 @@ AI-assisted logistics and route optimization platform.
 </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ---
 
 ## 📊 Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agam-katiyar\&theme=tokyo-night\&hide_border=true)](https://github.com/agam-katiyar)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -270,8 +201,6 @@ AI-assisted logistics and route optimization platform.
 * Data Engineering Foundation – Informatica
 * NPTEL Introduction to Internet of Things (Elite + Silver)
 * NPTEL Cloud Computing
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
