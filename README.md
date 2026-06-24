@@ -63,7 +63,7 @@
 ## 🏆 Highlights
 
 * 🥇 GRABHACK 2025 Pre-Finalist (Top 98 / 4500+ Teams)
-* 💻 Solved **350+ DSA Problems**
+* 💻 Solved **400+ DSA Problems**
 * 🤖 Multiple AI/ML & GenAI Hackathon Participant
 * ☁️ Google Cloud Arcade Achiever
 * 🌱 NSS Volunteer – Mega Tree Plantation Drive
@@ -188,7 +188,7 @@
 </p>
 
 <p align="center">
-  <b>379 Total Questions</b> • <b>253 Active Coding Days</b>
+  <b>400+ Total Questions</b> • <b>253 Active Coding Days</b>
 </p>
 
 <p align="center">
